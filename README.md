@@ -1,4 +1,4 @@
-👋 Hi! I’m Fardows Adam, a sophomore in Software Engineering with a growing passion for web development and backend engineering.
+👋 Hi! I’m Fardows Adam, a Junior in Software Engineering with a growing passion for web development and backend engineering.
 💻 Currently building full-stack projects and deepening my skills in backend frameworks, and scalable systems.
 🔍 Especially interested in databases, and software architecture.
 🤝 Always open to collaborating on backend or web development projects—let’s build something awesome together!
