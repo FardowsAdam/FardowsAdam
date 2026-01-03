@@ -1,8 +1,9 @@
-👋 Hi! I’m Fardows Adam, a Junior in Software Engineering with a growing passion for web development and backend engineering.
-💻 Currently building full-stack projects and deepening my skills in backend frameworks, and scalable systems.
-🔍 Especially interested in databases, and software architecture.
-🤝 Always open to collaborating on backend or web development projects—let’s build something awesome together!
-📫 Reach me at ashaqfrdws@gmail.com — happy to connect, collaborate, or tackle challenges as a team!
+👋 Hi! I’m Fardows Adam, a Junior Software Engineering student and aspiring AI/ML & Bioinformatics Engineer. 
+💻 I’m passionate about building full-stack web applications, cloud-based AI solutions, and computational biology tools.
+🔍 My interests include machine learning, bioinformatics, scalable backend systems, and software architecture. 
+🤝 I love collaborating on innovative projects that combine AI, cloud, and software development. 
+📫 Reach me at ashaqfrdws@gmail.com
+—let’s create something impactful together!
 
 
 
