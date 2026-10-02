@@ -1,4 +1,4 @@
-👋 Hi! I’m Fardows Adam, a Junior Software Engineering student and aspiring AI/ML & Bioinformatics Engineer. 
+👋 Hi! I’m Fardows Adam, a Senior Software Engineering student and aspiring AI/ML & Bioinformatics Engineer. 
 💻 I’m passionate about building full-stack web applications, cloud-based AI solutions, and computational biology tools.
 🔍 My interests include machine learning, bioinformatics, scalable backend systems, and software architecture. 
 🤝 I love collaborating on innovative projects that combine AI, cloud, and software development. 
